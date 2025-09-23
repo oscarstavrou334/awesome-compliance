@@ -16,3 +16,4 @@
 - docs: link the usage section
 - chore: fix a small wording issue
 - chore: fix a small wording issue
+- chore: fix a small wording issue
