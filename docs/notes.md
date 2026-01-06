@@ -14,3 +14,4 @@ Notes and usage details for awesome-compliance.
 - fix a small wording issue
 - add a note about the defaults
 - clarify the setup steps
+- link the usage section
