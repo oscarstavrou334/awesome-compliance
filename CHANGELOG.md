@@ -62,3 +62,4 @@
 - fix: link the usage section
 - chore: clarify the setup steps
 - chore: link the usage section
+- docs: link the usage section
